@@ -1,6 +1,6 @@
 # Mods Contidos no Modpack  
 
-1. [Tinkers]((https://modrinth.com/mod/tinkers-construct))
+1. [Tinkers](https://modrinth.com/mod/tinkers-construct)
 2. [Fabric API](https://modrinth.com/mod/fabric-api)
 3. [JEI](https://modrinth.com/mod/jei)
 4. [JER](https://modrinth.com/mod/just-enough-resources-jer)
