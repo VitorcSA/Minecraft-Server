@@ -1,6 +1,16 @@
+- [ link do ZeroTier](https://download.zerotier.com/dist/ZeroTier%20One.msi)
+
+Comando para entrar no Server:
+   
+    zerotier-cli join <Segredo>
+
+Ip do Server:
+
+    172.29.152.238:25565
+
 # Mods Contidos no Modpack  
 
-1. [Tinkers](https://modrinth.com/mod/tinkers-construct)
+1. [Tinkers](https://modrinth.com/mod/hephaestus)
 2. [Fabric API](https://modrinth.com/mod/fabric-api)
 3. [JEI](https://modrinth.com/mod/jei)
 4. [JER](https://modrinth.com/mod/just-enough-resources-jer)
@@ -8,7 +18,7 @@
 6. [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor)
 7. [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
 8. [Waystones](https://modrinth.com/mod/waystones)
-9.  [Storage Drawers](https://modrinth.com/mod/storagedrawers)
+9. [Storage Drawers](https://modrinth.com/mod/storagedrawers)
 10. [PasswordManager for AuthMe](https://modrinth.com/mod/pwam)
 11. [Sleep](https://modrinth.com/datapack/sleep/version/YUDnvMVq)
 12. [Spawn Animations](https://modrinth.com/datapack/spawn-animations)
