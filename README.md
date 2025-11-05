@@ -1,8 +1,8 @@
 - [ link do ZeroTier](https://download.zerotier.com/dist/ZeroTier%20One.msi)
 
-- Comando para entrar no Server:
+Comando para entrar no Server:
    
-    `zerotier-cli join <Segredo>`
+    zerotier-cli join <Segredo>
 
 Ip do Server:
 
@@ -10,7 +10,7 @@ Ip do Server:
 
 # Mods Contidos no Modpack  
 
-1. [Tinkers](https://modrinth.com/mod/tinkers-construct)
+1. [Tinkers](https://modrinth.com/mod/hephaestus)
 2. [Fabric API](https://modrinth.com/mod/fabric-api)
 3. [JEI](https://modrinth.com/mod/jei)
 4. [JER](https://modrinth.com/mod/just-enough-resources-jer)
