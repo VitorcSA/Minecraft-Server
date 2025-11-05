@@ -2,4 +2,5 @@ world/
 logs/ 
 crash-reports/ 
 run/ 
+mods/
 *.log 

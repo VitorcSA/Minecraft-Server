@@ -45,7 +45,6 @@ Ip do Server:
 31. [Continuity](https://modrinth.com/mod/continuity)
 32. [Gravestones](https://modrinth.com/mod/pneumono_gravestones?loader=fabric&version=1.20.1)
 33. [Paragliders](https://modrinth.com/mod/paragliders)
-34. []()
 
 -> [KubeJS](https://modrinth.com/mod/kubejs)
 
@@ -53,13 +52,12 @@ Ip do Server:
 
 -> [Inventorio](https://modrinth.com/mod/inventorio)
 
-<<<<<<< HEAD
 -> [JourneyMap](https://modrinth.com/mod/journeymap)
 
 -> [JourneyMap Teams](https://modrinth.com/mod/journeymap-teams)
-=======
+
 ---
 
 ### Baixar Mod pack:
-- [Modpack](https://github.com/VitorcSA/Minecraft-Server/raw/refs/heads/master/mods.zip)
->>>>>>> 2f6fe7d7c5367d64974e61623a9ab7d4e6544d1b
+- [Modpack](https://drive.google.com/uc?export=download&id=1AGIbjnJFjs2fGpo8QlpDjXr2xrRrUZ3F)
+
