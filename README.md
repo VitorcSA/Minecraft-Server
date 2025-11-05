@@ -1,4 +1,12 @@
-* [ link do ZeroTier](https://download.zerotier.com/dist/ZeroTier%20One.msi)
+- [ link do ZeroTier](https://download.zerotier.com/dist/ZeroTier%20One.msi)
+
+- Comando para entrar no Server:
+   
+    `zerotier-cli join <Segredo>`
+
+Ip do Server:
+
+    172.29.152.238:25565
 
 # Mods Contidos no Modpack  
 
