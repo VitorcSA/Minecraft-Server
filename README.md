@@ -8,6 +8,8 @@ Ip do Server:
 
     172.29.152.238:25565
 
+---
+
 # Mods Contidos no Modpack  
 
 1. [Tinkers](https://modrinth.com/mod/hephaestus)
@@ -20,7 +22,7 @@ Ip do Server:
 8. [Waystones](https://modrinth.com/mod/waystones)
 9. [Storage Drawers](https://modrinth.com/mod/storagedrawers)
 10. [PasswordManager for AuthMe](https://modrinth.com/mod/pwam)
-11. [Sleep](https://modrinth.com/datapack/sleep/version/YUDnvMVq)
+11. [Sleep](https://modrinth.com/project/WTzuSu8P)
 12. [Spawn Animations](https://modrinth.com/datapack/spawn-animations)
 13. [Mobs of Mythology](https://modrinth.com/mod/mobs-of-mythology)
 14. [Apple Skin](https://modrinth.com/mod/appleskin)
@@ -51,6 +53,13 @@ Ip do Server:
 
 -> [Inventorio](https://modrinth.com/mod/inventorio)
 
+<<<<<<< HEAD
 -> [JourneyMap](https://modrinth.com/mod/journeymap)
 
 -> [JourneyMap Teams](https://modrinth.com/mod/journeymap-teams)
+=======
+---
+
+### Baixar Mod pack:
+- [Modpack](https://github.com/VitorcSA/Minecraft-Server/raw/refs/heads/master/mods.zip)
+>>>>>>> 2f6fe7d7c5367d64974e61623a9ab7d4e6544d1b
