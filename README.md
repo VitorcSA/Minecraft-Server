@@ -1,3 +1,5 @@
+* [ link do ZeroTier](https://download.zerotier.com/dist/ZeroTier%20One.msi)
+
 # Mods Contidos no Modpack  
 
 1. [Tinkers](https://modrinth.com/mod/tinkers-construct)
@@ -8,7 +10,7 @@
 6. [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor)
 7. [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
 8. [Waystones](https://modrinth.com/mod/waystones)
-9.  [Storage Drawers](https://modrinth.com/mod/storagedrawers)
+9. [Storage Drawers](https://modrinth.com/mod/storagedrawers)
 10. [PasswordManager for AuthMe](https://modrinth.com/mod/pwam)
 11. [Sleep](https://modrinth.com/datapack/sleep/version/YUDnvMVq)
 12. [Spawn Animations](https://modrinth.com/datapack/spawn-animations)
