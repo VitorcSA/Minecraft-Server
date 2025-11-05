@@ -8,6 +8,8 @@ Ip do Server:
 
     172.29.152.238:25565
 
+---
+
 # Mods Contidos no Modpack  
 
 1. [Tinkers](https://modrinth.com/mod/hephaestus)
@@ -45,3 +47,8 @@ Ip do Server:
 -> [Better Combats](https://modrinth.com/mod/better-combat)
 
 -> [Inventorio](https://modrinth.com/mod/inventorio)
+
+---
+
+### Baixar Mod pack:
+- [Modpack](https://github.com/VitorcSA/Minecraft-Server/raw/refs/heads/master/mods.zip)
