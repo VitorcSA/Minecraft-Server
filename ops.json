@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "397e0bb1-677d-3651-8ea2-eb9074a09d57",
+    "name": "Ritburrom",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
