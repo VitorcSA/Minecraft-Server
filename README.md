@@ -26,6 +26,9 @@
 24. [Artifacts crafting](https://modrinth.com/mod/artifacts-crafting)
 25. [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks-(unoffical-fabric-port))
 26. [Chat Heads](https://modrinth.com/mod/chat-heads)
+27. [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+28. [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+29. []()
 
 -> [KubeJS](https://modrinth.com/mod/kubejs)
 
