@@ -38,10 +38,19 @@ Ip do Server:
 26. [Chat Heads](https://modrinth.com/mod/chat-heads)
 27. [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 28. [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
-29. []()
+29. [Mod Menu](https://modrinth.com/mod/modmenu?version=1.20.1&loader=fabric)
+30. [Scoreboard Helper](https://modrinth.com/mod/scoreboard-helper)
+31. [Continuity](https://modrinth.com/mod/continuity)
+32. [Gravestones](https://modrinth.com/mod/pneumono_gravestones?loader=fabric&version=1.20.1)
+33. [Paragliders](https://modrinth.com/mod/paragliders)
+34. []()
 
 -> [KubeJS](https://modrinth.com/mod/kubejs)
 
 -> [Better Combats](https://modrinth.com/mod/better-combat)
 
 -> [Inventorio](https://modrinth.com/mod/inventorio)
+
+-> [JourneyMap](https://modrinth.com/mod/journeymap)
+
+-> [JourneyMap Teams](https://modrinth.com/mod/journeymap-teams)
