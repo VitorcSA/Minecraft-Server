@@ -27,7 +27,7 @@
 23. [Artifacts](https://modrinth.com/mod/artifacts)
 24. [Artifacts crafting](https://modrinth.com/mod/artifacts-crafting)
 25. [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks-(unoffical-fabric-port))
-26. []()
+26. [Chat Heads](https://modrinth.com/mod/chat-heads)
 
 -> [KubeJS](https://modrinth.com/mod/kubejs)
 
